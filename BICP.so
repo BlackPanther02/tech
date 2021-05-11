@@ -123,7 +123,7 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print '             LOGIN ID : ' + name + pass
+    print '             LOGIN ID : ' + name 
     print ''
     print 47 * '-'
     print ' \x1b[1;91m          I am not hacker'
