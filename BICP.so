@@ -17,7 +17,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 os.system('termux-setup-storage')
 os.system('clear')
-logo = '\n\n\x1b[1;92m\n   _____    ___ \\ \nx1b[1;93m SPEEDI UPDATE 2.0.1"\[1;97m----------------------------------------------\n   Author   : RANA AAHIL\n   Github   : https://github.com/TheAahil\n   Youtube  : Aahil Creations\n----------------------------------------------\n             \x1b[1;92mFREE MODE ACTIVATED\n\x1b[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
+logo = '\n\n\x1b[1;92m\n   _____    ___ \\ \nx1b[1;93m SPEEDI UPDATE 2.0.1"\[1;97m----------------------------------------------\n   Author   : Black Panther\n   Github   : https://github.com/Blackpanther02\n   Youtube  : youtube nai re bukachuda\n----------------------------------------------\n             \x1b[1;92mFREE MODE ACTIVATED\n\x1b[1;97m------------------------------------------------\nBE A GOOD PERSON BUT DONT WASTE TIME TO PROVE IT\n------------------------------------------------ '
 CorrectUsername = 'BICP'
 loop = 'true'
 while loop == 'true':
